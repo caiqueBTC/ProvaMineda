@@ -1,0 +1,5 @@
+com\example\agenda\service\AgendaService.class
+com\example\agenda\AgendaApplication.class
+com\example\agenda\entity\Agenda.class
+com\example\agenda\controller\AgendaController.class
+com\example\agenda\repository\AgendaRepository.class
